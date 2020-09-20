@@ -1,0 +1,4 @@
+WALL_COLOR = (0, 0, 0) #black
+FLOOR_COLOR = (255, 255, 255) #white
+END_POINT_COLOR = WALL_COLOR  # (0, 255, 0)
+LINE_WIDTH = 2
